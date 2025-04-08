@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Spaghetti Bolognese",
+    "ingredients": ["spaghetti", "tomato", "ground beef", "onion"],
+    "steps": "Boil the spaghetti. Cook the ground beef with onions and tomato.",
+    "cookingTime": "30 minutes"
+  },
+  {
+    "id": 2,
+    "name": "Chicken Salad",
+    "ingredients": ["chicken", "lettuce", "tomato", "cucumber"],
+    "steps": "Grill the chicken. Mix with salad ingredients.",
+    "cookingTime": "15 minutes"
+  }
+]
