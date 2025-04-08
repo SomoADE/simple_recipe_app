@@ -12,5 +12,104 @@
     "ingredients": ["chicken", "lettuce", "tomato", "cucumber"],
     "steps": "Grill the chicken. Mix with salad ingredients.",
     "cookingTime": "15 minutes"
+  },
+  {
+    "id": 3,
+    "name": "Butter Chicken",
+    "ingredients": ["chicken", "butter", "tomato", "cream", "spices"],
+    "steps": "Cook chicken with spices, add creamy tomato sauce and simmer.",
+    "cookingTime": "35 minutes"
+  },
+  {
+    "id": 4,
+    "name": "Vegetable Stir Fry",
+    "ingredients": ["broccoli", "carrot", "bell pepper", "soy sauce"],
+    "steps": "Stir fry vegetables in soy sauce.",
+    "cookingTime": "20 minutes"
+  },
+  {
+    "id": 5,
+    "name": "Pancakes",
+    "ingredients": ["flour", "milk", "egg", "sugar"],
+    "steps": "Mix ingredients and cook on a skillet.",
+    "cookingTime": "10 minutes"
+  },
+  {
+    "id": 6,
+    "name": "Paneer Tikka",
+    "ingredients": ["paneer", "yogurt", "spices", "capsicum", "onion"],
+    "steps": "Marinate paneer and veggies, then grill or bake.",
+    "cookingTime": "25 minutes"
+  },
+  {
+    "id": 7,
+    "name": "Caesar Salad",
+    "ingredients": ["romaine lettuce", "croutons", "parmesan cheese", "Caesar dressing"],
+    "steps": "Toss all ingredients together.",
+    "cookingTime": "10 minutes"
+  },
+  {
+    "id": 8,
+    "name": "Beef Tacos",
+    "ingredients": ["ground beef", "taco shells", "lettuce", "cheese"],
+    "steps": "Cook beef, fill taco shells with beef and toppings.",
+    "cookingTime": "25 minutes"
+  },
+  {
+    "id": 9,
+    "name": "Vegetable Soup",
+    "ingredients": ["carrot", "celery", "potato", "vegetable broth"],
+    "steps": "Simmer all ingredients in broth.",
+    "cookingTime": "30 minutes"
+  },
+  {
+    "id": 10,
+    "name": "Grilled Cheese Sandwich",
+    "ingredients": ["bread", "cheese", "butter"],
+    "steps": "Butter bread, place cheese in between, and grill.",
+    "cookingTime": "10 minutes"
+  },
+  {
+    "id": 11,
+    "name": "Chocolate Chip Cookies",
+    "ingredients": ["flour", "sugar", "chocolate chips", "butter"],
+    "steps": "Mix ingredients and bake.",
+    "cookingTime": "15 minutes"
+  },
+  {
+    "id": 12,
+    "name": "Spaghetti Bolognese",
+    "ingredients": ["spaghetti", "tomato", "ground beef", "onion"],
+    "steps": "Boil the spaghetti. Cook the ground beef with onions and tomato.",
+    "cookingTime": "30 minutes"
+  },
+  {
+    "id": 13,
+    "name": "Chicken Salad",
+    "ingredients": ["chicken", "lettuce", "tomato", "cucumber"],
+    "steps": "Grill the chicken. Mix with salad ingredients.",
+    "cookingTime": "15 minutes"
+  },
+  {
+    "id": 14,
+    "name": "Vegetable Stir Fry",
+    "ingredients": ["broccoli", "carrot", "bell pepper", "soy sauce"],
+    "steps": "Stir fry vegetables in soy sauce.",
+    "cookingTime": "20 minutes"
+  },
+ 
+  {
+    "id": 15,
+    "name": "Grilled Cheese Sandwich",
+    "ingredients": ["bread", "cheese", "butter"],
+    "steps": "Butter bread, place cheese in between, and grill.",
+    "cookingTime": "10 minutes"
+  },
+  {
+    "id": 16,
+    "name": "Chocolate Chip Cookies",
+    "ingredients": ["flour", "sugar", "chocolate chips", "butter"],
+    "steps": "Mix ingredients and bake.",
+    "cookingTime": "15 minutes"
   }
 ]
